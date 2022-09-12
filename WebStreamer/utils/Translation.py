@@ -15,7 +15,7 @@ class Language(object):
     class en(object):
         START_TEXT = """
 <i>👋 Hᴇʏ,</i>{}\n
-<i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
+<i>I'm Telegram Files Streaming Bot As Well Direct Links Generator, here is what i do.</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n"""
