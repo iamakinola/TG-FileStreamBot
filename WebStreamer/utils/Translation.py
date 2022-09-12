@@ -19,8 +19,8 @@ class Language(object):
 <i>I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ FOR VIDEOS, PICTURES, MUSIC, DOCS, PDF, SRT, ETC</i>\n
 <i>Tʜɪs IS Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
 <i>LINKS GENERATED DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>\n
-<b>💰FOR SERVER DONATION OR SUPPORT💰</b>\n 
-<i>🧑‍CONTACT DEVELOPER @iamakinola</i>\n
+<b>💰<u>FOR SERVER DONATION OR SUPPORT💰</b></u>
+<i>🧑‍💻CONTACT DEVELOPER @iamakinola</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>🚸𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞 SENDING PRONOGRAPHIC ᴄᴏɴᴛᴇɴᴛꜱ TO BOT MAY ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.🔞</b>\n\n"""
@@ -35,7 +35,7 @@ class Language(object):
 <i>MY LINKS DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>\n
 <u>🚸𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u>\n
 <b>🔞 SENDING PRONOGRAPHIC ᴄᴏɴᴛᴇɴᴛꜱ TO BOT MAY ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.🔞</b>\n
-<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/iamakinola</a></b>"""
+<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>:@iamakinola</b>"""
 
         ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : AUTO FILE STREAM</b>\n
