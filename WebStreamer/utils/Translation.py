@@ -20,9 +20,9 @@ class Language(object):
 <i>Tʜɪs IS Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
 <i>LINKS GENERATED DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>\n
 <b>💰FOR SERVER DONATION OR SUPPORT💰</b>\n 
-<i>CONTACT DEVELOPER @iamakinola</i>\n
+<i>🧑‍CONTACT DEVELOPER @iamakinola</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
-<i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
+<i><u>🚸𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞 SENDING PRONOGRAPHIC ᴄᴏɴᴛᴇɴᴛꜱ TO BOT MAY ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.🔞</b>\n\n"""
 
         HELP_TEXT = """
@@ -38,7 +38,7 @@ class Language(object):
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/iamakinola</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : AUTO FILE STREAM Public Link Generator</b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : AUTO FILE STREAM</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : 3.0.3.1</b>\n
 <b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 18-Feb-22 ] 12:36 AM</b>\n
 <b>🧑‍💻DEVELOPED BY : OLANIYI AKINOLA</b>\n
@@ -46,7 +46,7 @@ class Language(object):
 """
 
         stream_msg_text ="""
-<b>💰FOR SERVER DONATION OR SUPPORT💰 contact DEVELOPER @iamakinola</b>\n
+<b>💰FOR DONATION CONTACT DEVELOPER @iamakinola💰</b>\n
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <i>{}</i>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
@@ -58,7 +58,7 @@ class Language(object):
 <i>👋 Hᴇʏ in Russian,</i>{}\n
 <i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
-<i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
+<i><u>🚸𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n"""
 
 # ------------------------------------------------------------------------------
