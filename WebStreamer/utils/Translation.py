@@ -19,7 +19,8 @@ class Language(object):
 <i>I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ FOR VIDEOS, PICTURES, MUSIC, DOCS, PDF, SRT, ETC</i>\n
 <i>Tʜɪs IS Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
 <i>LINKS GENERATED DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>\n
-<b>💰FOR SERVER DONATION OR SUPPORT💰 contact DEVELOPER @iamakinola</b>\n
+<b>💰FOR SERVER DONATION OR SUPPORT💰</b>\n 
+<i>CONTACT DEVELOPER @iamakinola</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
 <b>🔞 SENDING PRONOGRAPHIC ᴄᴏɴᴛᴇɴᴛꜱ TO BOT MAY ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.🔞</b>\n\n"""
@@ -27,19 +28,20 @@ class Language(object):
         HELP_TEXT = """
 <i>- Sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) FORWARED ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.</i>
 <i>- I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ !.</i>
-<i>LINKS GENERATED DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>\n
-<i>LINKS GENERATED CAN BE STREAM</i>\n
-<i>- ᴅᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>
+<i>- LINKS GENERATED DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>
+<i>- LINKS GENERATED CAN BE STREAM</i>
+<i>- ᴅᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ Wɪᴛʜ FASTEST SPEED</i>
+<i>- FILE RESOLUTIONS AND SIZE REMAIN THE SAME>
 <i>MY LINKS DO NOT EXPIRE AND IT CAN BE EMBED TO WEBSITES</i>\n
-<u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u>\n
+<u>🚸𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u>\n
 <b>🔞 SENDING PRONOGRAPHIC ᴄᴏɴᴛᴇɴᴛꜱ TO BOT MAY ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.🔞</b>\n
-<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/iamakinola>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
+<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/iamakinola</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : AUTO FILE STREAM Public Link Generator</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : 3.0.3.1</b>\n
-<b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 18-Feb-22 ] 12:36 AM</b>
-<b>🧑‍💻DEVELOPED BY : OLANIYI AKINOLA</b>
+<b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 18-Feb-22 ] 12:36 AM</b>\n
+<b>🧑‍💻DEVELOPED BY : OLANIYI AKINOLA</b>\n
 
 """
 
